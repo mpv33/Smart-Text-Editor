@@ -1,4 +1,4 @@
-# three GUI Project collection this resp-----------------
+# three GUI Project collection in this resp-----------------
 
 # Smart-Text-Editor
 GUI desktop software 
